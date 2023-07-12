@@ -246,7 +246,7 @@ Click Create to complete the configuration.
 
 Now when the dialog skill node invokes the search skill, the search skill will query the Discovery collection and display the text result to the user.
 
-Test in Assistant Tooling
+**Test in Assistant Tooling**
 NOTE: The following feature is currently only available for Watson Assistant provisioned on IBM Cloud.
 
 You should now see both skills have been added to your assistant.
@@ -265,4 +265,22 @@ If you click on the generated URL link, you will be able to interact with your d
 
 ![image](https://github.com/GlacialIce/GlacialIce.github.io/assets/71811961/50b0970f-27ed-463a-8196-59e37d736f5a)
 
+## **5. Integration from Watson Discovery to Watson Assistant**
 
+Langkah-langkah melakukan integrasi Watson Discovery ke Watson Assistant :
+1. Pergi ke tab Integration di Watson Assistant
+![Image](https://github.com/GlacialIce/GlacialIce.github.io/assets/71811961/ab49d9dc-1dfe-4a43-a854-7bec46308ebe)
+
+2. Pilih bagian "search", dapat pilih "draft" atau "live". Namun, untuk penggunaan di production, pilih "live"
+![Image](https://github.com/GlacialIce/GlacialIce.github.io/assets/71811961/4ff1990e-f401-4aa5-bef2-91e8b3754b13)
+
+3. Pastikan tampilan seperti di gambar, dengan posisi sistem mendeteksi Watson Discovery yang telah kita buat
+![Image](https://github.com/GlacialIce/GlacialIce.github.io/assets/71811961/d652fca5-199d-4912-ac15-3f076f74d9f9)
+![Image](https://github.com/GlacialIce/GlacialIce.github.io/assets/71811961/d13086f7-fe3a-449e-94bc-89a1be4e3434)
+
+4. Tekan "save" untuk menyimpan konfigurasi yan telah dibuat
+![Image](https://github.com/GlacialIce/GlacialIce.github.io/assets/71811961/19d8295b-831d-4f23-bede-d4798282bae9)
+
+## **6. Run the Application**
+Aplikasi ini dapat dijalankan melalui link berikut :
+https://glacialice.github.io/
