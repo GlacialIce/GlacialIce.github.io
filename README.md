@@ -3,6 +3,8 @@
 Sistem Chatbot Berbasis Aplikasi Web Untuk Informasi Manajemen Pengolahan Sampah Padat adalah aplikasi chatbot yang dibuat dengan tujuan untuk 
 menjadi sarana edukasi terkait manajemen sampah padat, tata cara pengolahannya, dan tata cara untuk memindahkannya dari satu tempat ke tempat lainnya. 
 
+Link : https://glacialice.github.io/
+
 ## **Important Notes**
 What is SDU ? 
 SDU trains Watson Discovery to extract custom fields in your documents. Customizing how your documents are indexed into Discovery will improve the answers returned from queries.
