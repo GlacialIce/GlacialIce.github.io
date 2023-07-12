@@ -14,6 +14,9 @@ Current document type support for SDU is based on your plan:
 Lite plans: PDF, Word, PowerPoint, Excel, JSON, HTML
 Advanced plans: PDF, Word, PowerPoint, Excel, PNG, TIFF, JPG, JSON, HTML
 
+File yang digunakan untuk chatbot ini : 
+https://ec.europa.eu/echo/files/evaluation/watsan2005/annex_files/WEDC/es/ES07CD.pdf
+
 - Note : Aplikasi ini dibuat sebagai bagian dari laporan akhir MBKM Studi Independen PT Kinema Systrans Multimedia (Infinite Learning)
 
 ## **Flow**
@@ -36,4 +39,10 @@ Penjelasan Flow :
 ## **1. Clone the Repo**
 git clone https://github.com/IBM/watson-assistant-with-search-skill
 
-**2. Create Watson Services**
+## **2. Create Watson Services**
+Buatlah IBM Cloud Services sebagai berikut :
+- Watson Assistant
+- Watson Discovery
+
+
+- Watson DiscoveryWatk
